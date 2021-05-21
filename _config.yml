@@ -8,6 +8,9 @@ avatarTitle: sir
 avatarDesc: 一位没有型的型男
 url: ""
 
+# 博客是否自动生成目录，false为不生成
+enableToc: true
+
 # Comment
 comment:
     # disqus: liu
@@ -17,7 +20,7 @@ comment:
 social:
     weibo: 13662019881
     github: killer-yao
-    # twitter: 571358216@qq.com
+    twitter: 571358216@qq.com
     mail: 571358216@qq.com
 
 # 百度统计 
@@ -45,7 +48,7 @@ ga:
 permalink: /:year/:month/:title/
 # Format
 highlighter: rouge
-
+textColor: #f06000
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 cover_color: red
 
