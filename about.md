@@ -7,19 +7,19 @@ title: 关于我
 <p>
 平时喜欢整理个人博客，逛逛技术论坛。
   
-OneDrive   
+* OneDrive   
  
   https://oneair.herokuapp.com
 
-GD 
+* GD 
   
   https://go.yushen.workers.dev/0:/
 
-emby 
+* emby 
   
   http://r.ruizhi.ml:8096
 
-v2-ui
+* v2-ui
   
     http://m.chuiniu.ml:443
 <p>
