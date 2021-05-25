@@ -12,13 +12,13 @@ url: "https://oneair.herokuapp.com"
 enableToc: true
 
 
-social:
-    weibo: 13662019881
-    github: 
-     zhihu: 
-     juejin: 
-    jianshu: 
-     twitter: 
+#social:
+ #  weibo: 13662019881
+ #   github: 
+   #  zhihu: 
+  #   juejin: 
+  #  jianshu: 
+   #  twitter: 
      mail: 
 
 
