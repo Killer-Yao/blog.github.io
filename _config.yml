@@ -11,21 +11,15 @@ url: "https://oneair.herokuapp.com"
 # 博客是否自动生成目录，false为不生成
 enableToc: true
 
- #Social
-        [OneDrive](https://oneair.herokuapp.com)
 
-        [GD](https://go.yushen.workers.dev/0:/)
-
-        [emby](http://r.ruizhi.ml:8096)
-
-        [v2-ui](http://m.chuiniu.ml:443)
-
- Social
-#social:
-    weibo: https://oneair.herokuapp.com
-   github: https://go.yushen.workers.dev/0:/
-    twitter: http://r.ruizhi.ml:8096
-    mail: http://m.chuiniu.ml:443
+social:
+    weibo: 5366874726 
+    github: leopardpan
+    # zhihu: panpanleopard
+    # juejin: xxx
+    jianshu: 2ada30d8d0f7
+    # twitter: 
+    mail: leopardpan@icloud.com
 
 
 
