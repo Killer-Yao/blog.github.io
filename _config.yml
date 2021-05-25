@@ -11,12 +11,21 @@ url: "https://oneair.herokuapp.com"
 # 博客是否自动生成目录，false为不生成
 enableToc: true
 
+ Social
+        [OneDrive](https://oneair.herokuapp.com)
+
+        [GD](https://go.yushen.workers.dev/0:/)
+
+        [emby](http://r.ruizhi.ml:8096)
+
+        [v2-ui](http://m.chuiniu.ml:443)
+
 # Social
-social:
-    weibo: 13662019881
-    github: killer-yao
-    twitter: 571358216@qq.com
-    mail: 571358216@qq.com
+#social:
+#    weibo: 13662019881
+#   github: killer-yao
+#    twitter: 571358216@qq.com
+#    mail: 571358216@qq.com
 
 
 
